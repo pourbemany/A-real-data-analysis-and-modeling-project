@@ -1,0 +1,91 @@
+﻿Violation_ID,Violation_Code,Violation_Demerits,Violation_Description,ObjectId
+1,1,6,Food not obtained from approved sources and/or improperly identified.,1
+2,2,6,Food spoiled or adulterated.,2
+3,3,6,Employee(s) working with boils,3
+4,4,4,Inadequate hot and cold holding equipment,4
+5,5,10,Hot potentially hazardous foods not rapidly cooled by approved methods.,5
+7,7,2,Potentially hazardous foods improperly thawed.,6
+8,8,3,Potentially hazardous salads and/or fillings not made with prechilled ingredients.,7
+9,9,2,Perishable foods kept at improper temperature.,8
+10,10,3,Suitable thermometers (stem,9
+12,12,6,Food workers improperly washing hands after using toilet,10
+13,13,3,Unsuitable hand washing facilities,11
+14,14,4,Kitchenware and/or food contact surfaces of equipment improperly cleaned,12
+15,15,6,Sewage not disposed into public sewer or approved facility. Cross-connections or back siphonage present.,13
+16,16,6,No hot and cold running water as required and/or water not from an approved source.,14
+17,17,2,Fruits and vegetables improperly washed prior to serving.,15
+18,18,1,Foods not stored off the floor.,16
+19,19,1,Required labels not present on food or containers of food.  Required signs not posted.,17
+20,20,1,Health cards not current on all food handlers.,18
+21,21,1,Unacceptable hygienic practices,19
+22,22,1,In-use utensils improperly handled and/or stored.,20
+23,23,1,Facilities for washing and sanitizing equipment and utensils unapproved,21
+24,24,1,Accurate thermometers,22
+25,25,1,Clean utensils,23
+26,26,3,Single service items reused.,24
+27,27,1,Unclean wiping cloths,25
+28,28,1,Unapproved food contact surfaces. Food contact surfaces not  smooth,26
+29,29,1,Plastic used for food contact surfaces is not of approved food grade quality.,27
+30,30,1,Non-food contact surfaces improperly constructed and/or installed.,28
+31,31,1,Non-food contact surfaces and/or cooking devices not maintained and/or unclean.,29
+32,32,1,Toilet facilities for employees inadequate,30
+33,33,1,Garbage storage and/or removal inadequate and/or unclean.  Garbage containers not clean,31
+34,34,3,No effective measures to control pests.  Pest control devices not maintained.,32
+35,35,1,Improper lighting and/or ventilation,33
+36,36,1,Plumbing and/or fixtures improperly sized,34
+37,37,1,Floors,35
+38,38,1,Living quarters not completely separated from food service.  Infant or child care allowed.  Premises not maintained free of litter,36
+39,39,1,Live animals not in compliance with current Regulations.,37
+40,40,1,Non-compliant with Nevada Revised Statute 202.2483 regarding smoking.,38
+61,44348,6,Poultry,39
+62,44349,6,Ground,40
+63,44350,6,Pork and/or any food containing pork,41
+64,44351,6,Potentially hazardous foods not kept at 40°F or colder or at 140°F or hotter,42
+111,44501,4,Food unprotected from cross-contamination by raw meats,43
+112,44502,4,Food unprotected from cross-contamination by food handlers.,44
+113,44503,4,Food unprotected from cross-contamination by chemicals.,45
+114,44504,4,Food unprotected by cross-contamination by proper storage.,46
+201,1,5,Verifiable time as a control with approved procedure when in use. Operational plan,47
+202,2,5,Handwashing (as required,48
+203,3,5,Commercially manufactured food from approved source with required labels. Parasite destruction as required. Potentially hazardous foods/time temperature control for safety (PHF/TCS) received at proper temperature.,49
+204,4,5,Hot and cold running water from approved source as required. ,50
+205,5,5,Imminently dangerous cross connection or backflow.  Waste water and sewage disposed into public sewer or approved facility.,51
+206,6,5,Food wholesome,52
+207,7,5,PHF/TCSs cooked and reheated to proper temperatures.,53
+208,8,5,PHF/TCSs properly cooled.,54
+209,9-Jan,5,PHF/TCSs at proper temperatures during storage,55
+210,10-Jan,5,Operating within the parameters of the health permit.,56
+211,11-Jan,3,Food protected from potential contamination during storage and preparation.,57
+212,12-Jan,3,Food protected from potential contamination by chemicals. Toxic items properly labeled,58
+213,13,3,Food protected from potential contamination by employees and consumers.,59
+214,14,3,Kitchenware and food contact surfaces of equipment properly washed,60
+215,15,3,Handwashing facilities adequate in number,61
+216,16,3,Effective pest control measures. Animals restricted as required.,62
+217,17,3,Hot and cold holding equipment present,63
+218,18,3,Accurate thermometers (stem & hot/cold holding) provided and used.,64
+219,19,3,PHF/TCSs properly thawed.,65
+220,20,3,Single use items not reused or misused.,66
+221,21,3,Person in charge available and knowledgeable/management certification.,67
+222,22,3,Backflow prevention devices and methods in place and maintained.,68
+223,23,3,“B” or “C” grade card and required signs posted conspicuously. Consumer advisory as required. Records/logs maintained and available when required.,69
+224,24,1,Acceptable personal hygiene practices,70
+225,25,1,Food and food storage containers properly labeled and dated as required. Food stored off the floor when required. Non-PHF/TCS not spoiled and within shelf-life. Proper retail storage of chemicals.,71
+226,26,1,Facilities for washing and sanitizing kitchenware approved,72
+227,27,1,Appropriate sanitizer test kits provided and used. Ware washing thermometer(s) as required. Wiping cloths & linens stored and used properly.,73
+228,28,1,Food contact surfaces and equipment approved,74
+229,29,1,Utensils,75
+230,30,1,Nonfood contact surfaces and equipment properly constructed,76
+231,31,1,Health cards as required. Foodhandler not aware of employee health policy. “A” grade card posted conspicuously. ,77
+232,32,1,Restrooms,78
+233,33,1,Facility in sound condition and maintained (floors,79
+234,34,1,Fruits and vegetables washed prior to preparation or service.,80
+301,IHH-1,0,Imminent Health Hazard - (Immediate Closure) - Interruption of electrical service,81
+302,IHH-2,0,Imminent Health Hazard - (Immediate Closure) - No potable water or hot water,82
+303,IHH-3,0,Imminent Health Hazard - (Immediate Closure) - Gross unsanitary occurrences or conditions including pest infestation,83
+304,IHH-4,0,Imminent Health Hazard - (Immediate Closure) - Sewage or liquid waste not disposed of in an approved manner,84
+305,IHH-5,0,Imminent Health Hazard - (Immediate Closure) - Lack of adequate refrigeration,85
+306,IHH-6,0,Imminent Health Hazard - (Immediate Closure) - Lack of adequate employee toilets and handwashing facilities,86
+307,IHH-7,0,Imminent Health Hazard - (Immediate Closure) - Misuse of poisonous or toxic materials,87
+308,IHH-8,0,Imminent Health Hazard - (Immediate Closure) - Suspected foodborne illness outbreak,88
+309,IHH-9,0,Imminent Health Hazard - (Immediate Closure) - Emergency such as fire and/or flood,89
+310,IHH-10,0,Imminent Health Hazard - (Immediate Closure) - Other condition or circumstance that may endanger public health,90
